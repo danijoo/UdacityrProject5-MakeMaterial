@@ -24,6 +24,7 @@
         </activity>
 
         <activity
+            android:theme="@style/Theme.Bacon.Fullscreen"
             android:name=".ui.ArticleDetailActivity"
             android:parentActivityName=".ui.ArticleListActivity">
             <intent-filter>
