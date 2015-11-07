@@ -9,6 +9,7 @@
     android:layout_marginTop="4dp"
     android:clickable="true"
     android:focusable="true"
+    app:elevation="@dimen/card_elevation"
     android:foreground="?selectableItemBackground">
 
     <LinearLayout
